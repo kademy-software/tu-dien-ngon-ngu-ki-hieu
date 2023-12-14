@@ -164,6 +164,13 @@ let listProducts = [
         image: 'database_dic/vui_ve.png',
        
     },
+    {
+        id: 16,
+        name: 'con mèo',
+
+        image: 'database_dic/cat.png',
+       
+    },
 
 ];
 let productFilter = listProducts;
